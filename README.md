@@ -18,3 +18,12 @@ View your app in AI Studio: https://ai.studio/apps/drive/12be64Nd8BNbPM43S5SoLQc
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Deploy to Firebase Hosting
+
+To deploy the production build to Firebase:
+
+1. Build the app:
+   `npm run build`
+2. Deploy:
+   `firebase deploy`
