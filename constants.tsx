@@ -27,8 +27,8 @@ export const UI_TEXT = {
 export const PARYUSHAN_SCHEDULE: ParyushanDay[] = [
   {
     day: 1,
-    date: 'August 23, 2025',
-    dayName: { en: 'Saturday', hi: 'शनिवार' },
+    date: 'August 20, 2025',
+    dayName: { en: 'Wednesday', hi: 'बुधवार' },
     title: { en: 'The Beginning of Introspection', hi: 'आत्मनिरीक्षण का आरंभ' },
     description: {
       en: 'The first day marks the start of this sacred period of fasting, prayer, and self-purification. The holy scripture, Kalpa Sutra, is brought into the temple in a ceremonial procession.',
@@ -38,8 +38,8 @@ export const PARYUSHAN_SCHEDULE: ParyushanDay[] = [
   },
   {
     day: 2,
-    date: 'August 24, 2025',
-    dayName: { en: 'Sunday', hi: 'रविवार' },
+    date: 'August 21, 2025',
+    dayName: { en: 'Thursday', hi: 'गुरुवार' },
     title: { en: 'Kalpa Sutra Vachan', hi: 'कल्प सूत्र वाचन' },
     description: {
       en: 'The recitation of the Kalpa Sutra begins. This scripture narrates the life of Lord Mahavir and other Tirthankaras, inspiring devotees to follow their path.',
@@ -49,8 +49,8 @@ export const PARYUSHAN_SCHEDULE: ParyushanDay[] = [
   },
   {
     day: 3,
-    date: 'August 25, 2025',
-    dayName: { en: 'Monday', hi: 'सोमवार' },
+    date: 'August 22, 2025',
+    dayName: { en: 'Friday', hi: 'शुक्रवार' },
     title: { en: 'Continuing the Sacred Word', hi: 'पवित्र वचन का क्रम' },
     description: {
       en: 'Devotees continue to listen to the Kalpa Sutra, absorbing the teachings and virtues of the Tirthankaras. The focus is on understanding the principles of Jainism.',
@@ -60,8 +60,8 @@ export const PARYUSHAN_SCHEDULE: ParyushanDay[] = [
   },
   {
     day: 4,
-    date: 'August 26, 2025',
-    dayName: { en: 'Tuesday', hi: 'मंगलवार' },
+    date: 'August 23, 2025',
+    dayName: { en: 'Saturday', hi: 'शनिवार' },
     title: { en: 'Mahavir Janma Vachan', hi: 'महावीर जन्म वाचन' },
     description: {
       en: 'A very auspicious day celebrating the birth of Lord Mahavir. The fourteen auspicious dreams of his mother, Queen Trishala, are narrated and ceremoniously displayed.',
@@ -83,8 +83,8 @@ export const PARYUSHAN_SCHEDULE: ParyushanDay[] = [
   },
   {
     day: 5,
-    date: 'August 27, 2025',
-    dayName: { en: 'Wednesday', hi: 'बुधवार' },
+    date: 'August 24, 2025',
+    dayName: { en: 'Sunday', hi: 'रविवार' },
     title: { en: 'Cultivating Virtues (Panch Mahavrat)', hi: 'सद्गुणों का विकास (पंच महाव्रत)' },
     description: {
       en: 'A day to reflect on the five main vows of Jainism: Ahimsa (non-violence), Satya (truth), Asteya (non-stealing), Brahmacharya (chastity), and Aparigraha (non-possession).',
@@ -94,8 +94,8 @@ export const PARYUSHAN_SCHEDULE: ParyushanDay[] = [
   },
   {
     day: 6,
-    date: 'August 28, 2025',
-    dayName: { en: 'Thursday', hi: 'गुरुवार' },
+    date: 'August 25, 2025',
+    dayName: { en: 'Monday', hi: 'सोमवार' },
     title: { en: 'Deepening Meditation', hi: 'ध्यान को गहरा करना' },
     description: {
       en: 'Focus shifts towards deeper meditation (dhyana) and introspection, seeking to cleanse the soul of accumulated karmas through self-control and spiritual practices.',
@@ -105,8 +105,8 @@ export const PARYUSHAN_SCHEDULE: ParyushanDay[] = [
   },
   {
     day: 7,
-    date: 'August 29, 2025',
-    dayName: { en: 'Friday', hi: 'शुक्रवार' },
+    date: 'August 26, 2025',
+    dayName: { en: 'Tuesday', hi: 'मंगलवार' },
     title: { en: 'Anticipation of Forgiveness', hi: 'क्षमा की प्रत्याशा' },
     description: {
       en: 'Preparations for Samvatsari begin. Devotees reflect on their actions over the past year and prepare their hearts to ask for forgiveness from all living beings.',
@@ -116,8 +116,8 @@ export const PARYUSHAN_SCHEDULE: ParyushanDay[] = [
   },
   {
     day: 8,
-    date: 'August 30, 2025',
-    dayName: { en: 'Saturday', hi: 'शनिवार' },
+    date: 'August 27, 2025',
+    dayName: { en: 'Wednesday', hi: 'बुधवार' },
     title: { en: 'Samvatsari - The Day of Forgiveness', hi: 'संवत्सरी - क्षमा का दिन' },
     description: {
       en: 'The most important day of Paryushan. Jains observe a complete fast and perform the Samvatsari Pratikraman, a comprehensive ritual of confession and repentance, culminating in seeking forgiveness.',
